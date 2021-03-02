@@ -1,0 +1,190 @@
+/*.navigation{*/
+/*    background-color: darkgrey!important;*/
+/*}*/
+/*.navigation a{*/
+/*    color: white;*/
+/*}*/
+/*.slider img{*/
+/*    width: 100%;*/
+/*}*/
+
+/******************************************** NAVIGATION *****************************/
+
+/*.navbar{*/
+/*    background-color : grey!important;*/
+/*}*/
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+
+
+.udregnMain{
+    padding-top:10%;
+    padding-bottom: 10%;
+}
+
+/*--------------------partnere Css--------------------*/
+/*<h6>*/
+
+.overskift{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+/*<Main>*/
+.partnerMain{
+    padding-top: 7%;
+    padding-bottom: 7%;
+    width:100%;
+    background-color:#637a91
+}
+/*<opdeling>*/
+.row{
+    margin-top: 7%;
+}
+
+/*<h7 / h8>*/
+.overskifter{
+    color: white;
+    font-size: 20px;
+
+}
+/*<p>*/
+.brødtekst{
+    color: white;
+    width: 100%;
+}
+/*----------------------------------------------------------------------*/
+/* lommeregner */
+.calculator {
+    background-color: white;
+}
+/* tekst bokse */
+.form-group1 {
+    width: 60%;
+    margin:auto;
+}
+.form-group2{
+    width: 60%;
+    margin:auto;
+}
+.form-group3{
+    width: 60%;
+    margin:auto;
+}
+ /* knapper */
+#but1 {
+    background-color: #4eb070;
+    width: 60%;
+    color:black;
+    font-size:20px;
+}
+#but2{
+    background-color: white;
+    width: 60%;
+    color:black;
+    font-size:20px;
+    margin-left:112px;
+}
+ /* Madspild overskrift */
+.top-text {
+    font-size: 3rem;
+    color: #199494;
+    text-align: center;
+    padding-top: 20px;
+}
+ /* mellemrum mellem knapperne */
+.spacer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.container1{
+    width: 100%;
+    margin-left:55px;
+
+
+}
+
+ /* Footer */
+.overskrift1{
+    font-size:30px;
+
+}
+.row-1 {
+    margin-left: -30px;
+
+}
+
+.info{
+
+    width:70%;
+    float:right;
+    text-align:right;
+    font-size:20px;
+    text-align:right;
+    margin-right:100px;
+}
+ /*-------------------------------------------------*/
+
+.info:after{
+    content:"";
+    clear:both;
+    display:block;
+}
+ /*-------------------------------------------------*/
+
+/*--------------------Om Os Css--------------------*/
+.omOs{
+    width: 40%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 6%;
+    /*padding-bottom: 100px;*/
+}
+.articleHeader{
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+/*-------------------------------------------------*/
+/*<p>*/
+.informationer{
+    text-size: 30%;
+    text-align: inherit;
+}
+/*<h10>*/
+.navn{
+    font-size: 30px;
+    text-align: inherit;
+}
+/*<h11 / h12>*/
+.titel{
+    font-size: 20px;
+    color: black;
+}
+/*<Img>*/
+.billed{
+    border-style: none;
+    border-radius: 50%;
+    width:30%;
+    display:block;
+    text-align: center;
+    margin:auto;
+}
+/*<>*/
+.billedDiv{
+    text-align: center;
+}
+/*<p>*/
+.Brødtekst{
+    text-size: 50%;
+}
+
